@@ -1,0 +1,57 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  font-size: 20px;
+  background-image: url(../img/tanks.jpg);
+  background-size: cover;
+}
+.top{
+  text-align: right;
+}
+.title{
+  margin-right: 5%;
+  color: white;
+  text-align: right;
+}
+.beers{
+  text-align: right;
+}
+#search{
+  margin-right: 5%;
+  text-align: right;
+}
+.beerDescription{
+  width: 25%;
+  padding-left: 2%;
+  margin-top: 5%;
+  color: white;
+  float: left;
+}
+.name{
+  font-size: 2rem;
+  text-align: center;
+}
+.firstBrewed{
+  text-align: center;
+}
+.description{
+  font-size: 1rem;
+}
+.foods{
+  padding: 4% 0 0 2%;
+}
+.foods li{
+  list-style-type: none;
+}
+.space{
+  padding-bottom: 2%;
+}
+.image{
+  width: 100%;
+  float: right;
+}
+img{
+  height: 200px;
+  width: 20%;
+}
